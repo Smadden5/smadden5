@@ -50,6 +50,7 @@ body {
   ----------------------------------------------------------------------------------------------------*/
   
   .grid_2,
+  .grid_3,
   .grid_4,
   .grid_5,
   .grid_6,
@@ -65,8 +66,6 @@ body {
   }
 
   .grid_1,
-  .grid_3,
-  
   .grid_7 {
     display: inline;
     float: right;
@@ -111,7 +110,7 @@ body {
   }
   
   .container_12 .grid_3 {
-    width: 840px;
+    width: 820px;
   }
   
   .container_12 .grid_4 {
