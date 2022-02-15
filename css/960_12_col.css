@@ -51,6 +51,7 @@ body {
   
   .grid_2,
   .grid_4,
+  .grid_5,
   .grid_6,
   .grid_8,
   .grid_9,
@@ -65,7 +66,7 @@ body {
 
   .grid_1,
   .grid_3,
-  .grid_5,
+  
   .grid_7 {
     display: inline;
     float: right;
